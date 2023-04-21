@@ -1,0 +1,1 @@
+# openMP_assignment2
